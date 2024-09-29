@@ -1,6 +1,6 @@
 # Unity Project Template (ShaderGraph / VFXGraph)
 
-<img width="600" src="./Unity/Assets/Documentation/Images/BestPractices.png" alt="Best Practices">
+<img width="600" src="./Unity/Assets/Documentation/Images/RenderingBanner.png" alt="Best Practices">
 
 <BR>
 
