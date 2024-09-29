@@ -102,8 +102,30 @@ This project is a living template. It showcases the best practices and coding st
 **Dependencies**
 * `Various` - Already included via [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) as this [Version](./Unity/Packages/manifest.json)
 
+
 <BR>
 <BR>
+
+## Resources
+
+Here are more articles from Samuel Asher Rivello.
+
+**Portfolio**
+* [SamuelAsherRivello.com/best-practices](https://www.SamuelAsherRivello.com/best-practices)
+* [SamuelAsherRivello.com/rendering-portfolio](https://www.SamuelAsherRivello.com/rendering-portfolio)
+
+**Medium**
+* [Best Practices — 1 — Unity Project Structure](https://samuel-asher-rivello.medium.com/unity-project-structure-a694792cefed)
+* [Best Practices — 2 — Unity C# Coding Standards](https://samuel-asher-rivello.medium.com/coding-standards-in-c-39aefee92db8)
+* [Best Practices — 3 — Unity Overview](https://samuel-asher-rivello.medium.com/best-practices-3-unity-8abcce214ddc)
+* [Best Practices — 4 — MVC Architecture For Unity](https://samuel-asher-rivello.medium.com/unleashing-the-power-of-mvc-architecture-in-unity-a-journey-of-structured-game-development-492ef9c53817)
+* [Best Practices — 5 — Unit Testing For Unity](https://samuel-asher-rivello.medium.com/unity-testing-for-unity-elevating-your-game-development-skills-eb76fc0bbea3)
+
+
+
+<BR>
+<BR>
+
 
 ## Credits
 
