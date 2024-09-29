@@ -1,0 +1,5 @@
+Source Url: 
+* Imported samples through Unity Package Manager.
+
+Changelog: 
+* Moved to /Assets/3rdParty/
