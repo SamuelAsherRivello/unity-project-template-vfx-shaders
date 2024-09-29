@@ -1,4 +1,4 @@
-# Unity Project Template
+# Unity Project Template (ShaderGraph / VFXGraph)
 
 <img width="600" src="./Unity/Assets/Documentation/Images/BestPractices.png" alt="Best Practices">
 
@@ -6,7 +6,7 @@
 
 This repo represents the ideal starting point for new Unity projects.
 
-The project includes best practices for **project structure** and **C# coding standards**.
+The project includes best practices for **project structure** and **C# coding standards** as well as packages for **ShaderGraph** and **VFXGraph**.
 
 <BR>
 
@@ -28,9 +28,6 @@ The project includes best practices for **project structure** and **C# coding st
 
 1. [About](#about)
 1. [Overview](#overview)
-1. [Best Practices](#best-practices)
-    * [Project Structure](#project-structure)
-    * [Coding Standards](#coding-standards)
 1. [Resources](#resources)
 1. [Credits](#credits)
 
@@ -104,72 +101,6 @@ This project is a living template. It showcases the best practices and coding st
 
 **Dependencies**
 * `Various` - Already included via [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) as this [Version](./Unity/Packages/manifest.json)
-
-<BR>
-<BR>
-
-## Best Practices
-
-### Project Structure
-
-Employing an organized project structure is beneficial to your project and your team.
-
-See the [./Unity/Assets/](Unity/Assets/) folder for more info.
-
-Scope Includes:
-* Folder Structure
-* Folder Naming
-* File Naming
-
-Benefits:
-
-* Consistency — The project structure has consistency in presentation regardless of team location, spoken language, or individual programmers.
-* Maintenance — Consistent project structure will aid readability. Readability helps new and existing programmers revisit the code base for fixes and improvements.
-* Communication — Developers more implicitly understand each other in written and verbal communication.
-
-### Coding Standards
-
-Coding standards define a programming style. 
-
-See the <a href="./Unity/Assets/Scripts/Runtime/RMC/Templates">Unity/.../Templates/</a> folder for more info.
-
-Employing organized coding standards is beneficial to your project and your team.
-
-Scope Includes:
-
-* Naming Conventions
-* File Naming and Organization
-* Formatting and Indentation
-* Comments and Documentation
-* Classes, Functions and Interfaces
-* Testing
-
-Benefits:
-
-* Code Integration
-* Team Member Integration
-* Maintenance
-* Uniform Problem Solving
-* Minimizes Communication
-* Minimizes Performance Pitfalls
-* Saves Money Due to Less Man Hours 
-
-<BR>
-<BR>
-
-## Resources
-
-Here are more articles from Samuel Asher Rivello.
-
-**Portfolio**
-* [SamuelAsherRivello.com/best-practices](https://www.SamuelAsherRivello.com/best-practices)
-
-**Medium**
-* [Best Practices — 1 — Unity Project Structure](https://samuel-asher-rivello.medium.com/unity-project-structure-a694792cefed)
-* [Best Practices — 2 — Unity C# Coding Standards](https://samuel-asher-rivello.medium.com/coding-standards-in-c-39aefee92db8)
-* [Best Practices — 3 — Unity Overview](https://samuel-asher-rivello.medium.com/best-practices-3-unity-8abcce214ddc)
-* [Best Practices — 4 — MVC Architecture For Unity](https://samuel-asher-rivello.medium.com/unleashing-the-power-of-mvc-architecture-in-unity-a-journey-of-structured-game-development-492ef9c53817)
-* [Best Practices — 5 — Unit Testing For Unity](https://samuel-asher-rivello.medium.com/unity-testing-for-unity-elevating-your-game-development-skills-eb76fc0bbea3)
 
 <BR>
 <BR>
