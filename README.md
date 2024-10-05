@@ -114,7 +114,14 @@ Here are more articles from Samuel Asher Rivello.
 * [SamuelAsherRivello.com/best-practices](https://www.SamuelAsherRivello.com/best-practices)
 * [SamuelAsherRivello.com/rendering-portfolio](https://www.SamuelAsherRivello.com/rendering-portfolio)
 
-**Medium**
+**Medium: Rendering**
+* [Unity Rendering  — 1— Overview](https://samuel-asher-rivello.medium.com/unity-rendering-1-overview-fdf79134185d) – High-level intro to the series
+* [Unity Rendering  — 2— URP Pipeline](https://samuel-asher-rivello.medium.com/unity-rendering-2-urp-pipeline-bad613aaf638) – The basics on the universal rendering
+* [Unity Rendering  — 3— ShaderGraph](https://samuel-asher-rivello.medium.com/unity-rendering-3-shadergraph-4a8eb6754088) – Node-based shader creation
+* [Unity Rendering  — 4— VFXGraph](https://samuel-asher-rivello.medium.com/unity-rendering-4-vfxgraph-3d09535fbd96) – Low-code/no-code for particle effects
+* [Unity Rendering  — 5— Optimization](https://samuel-asher-rivello.medium.com/unity-rendering-5-optimization-b94c6ff3d0d9) – Increase runtime performance
+ 
+**Medium: Best Practices**
 * [Best Practices — 1 — Unity Project Structure](https://samuel-asher-rivello.medium.com/unity-project-structure-a694792cefed)
 * [Best Practices — 2 — Unity C# Coding Standards](https://samuel-asher-rivello.medium.com/coding-standards-in-c-39aefee92db8)
 * [Best Practices — 3 — Unity Overview](https://samuel-asher-rivello.medium.com/best-practices-3-unity-8abcce214ddc)
