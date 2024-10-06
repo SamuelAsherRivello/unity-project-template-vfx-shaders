@@ -115,11 +115,12 @@ Here are more articles from Samuel Asher Rivello.
 * [SamuelAsherRivello.com/rendering-portfolio](https://www.SamuelAsherRivello.com/rendering-portfolio)
 
 **Medium: Rendering**
-* [Unity Rendering  — 1— Overview](https://samuel-asher-rivello.medium.com/unity-rendering-1-overview-fdf79134185d) – High-level intro to the series
-* [Unity Rendering  — 2— URP Pipeline](https://samuel-asher-rivello.medium.com/unity-rendering-2-urp-pipeline-bad613aaf638) – The basics on the universal rendering
-* [Unity Rendering  — 3— ShaderGraph](https://samuel-asher-rivello.medium.com/unity-rendering-3-shadergraph-4a8eb6754088) – Node-based shader creation
-* [Unity Rendering  — 4— VFXGraph](https://samuel-asher-rivello.medium.com/unity-rendering-4-vfxgraph-3d09535fbd96) – Low-code/no-code for particle effects
-* [Unity Rendering  — 5— Optimization](https://samuel-asher-rivello.medium.com/unity-rendering-5-optimization-b94c6ff3d0d9) – Increase runtime performance
+* [Unity Rendering  — 1 — Overview](https://samuel-asher-rivello.medium.com/unity-rendering-1-overview-fdf79134185d) – High-level intro to the series
+* [Unity Rendering  — 2 — URP Pipeline](https://samuel-asher-rivello.medium.com/unity-rendering-2-urp-pipeline-bad613aaf638) – The basics on the universal rendering
+* [Unity Rendering  — 3 — RenderGraph](https://samuel-asher-rivello.medium.com/unity-rendering-3-rendergraph-4d25460caa0e) – Complete customization of pipeline
+* [Unity Rendering  — 4 — ShaderGraph](https://samuel-asher-rivello.medium.com/unity-rendering-3-shadergraph-4a8eb6754088) – Node-based shader creation
+* [Unity Rendering  — 5 — VFXGraph](https://samuel-asher-rivello.medium.com/unity-rendering-4-vfxgraph-3d09535fbd96) – Low-code/no-code for particle effects
+* [Unity Rendering  — 6 — Optimization](https://samuel-asher-rivello.medium.com/unity-rendering-5-optimization-b94c6ff3d0d9) – Increase runtime performance
  
 **Medium: Best Practices**
 * [Best Practices — 1 — Unity Project Structure](https://samuel-asher-rivello.medium.com/unity-project-structure-a694792cefed)
@@ -128,6 +129,13 @@ Here are more articles from Samuel Asher Rivello.
 * [Best Practices — 4 — MVC Architecture For Unity](https://samuel-asher-rivello.medium.com/unleashing-the-power-of-mvc-architecture-in-unity-a-journey-of-structured-game-development-492ef9c53817)
 * [Best Practices — 5 — Unit Testing For Unity](https://samuel-asher-rivello.medium.com/unity-testing-for-unity-elevating-your-game-development-skills-eb76fc0bbea3)
 
+
+Unity Rendering - 1 - Overview
+Unity Rendering - 2 - URP Pipeline
+Unity Rendering - 3 - RenderGraph
+Unity Rendering - 4 - ShaderGraph
+Unity Rendering - 5 - VFXGraph
+Unity Rendering - 6 - Optimization
 
 
 <BR>
