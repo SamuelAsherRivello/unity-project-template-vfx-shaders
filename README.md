@@ -1,6 +1,6 @@
 # Unity Project Template (ShaderGraph / VFXGraph)
 
-<img width="600" src="./Unity/Assets/Documentation/Images/RenderingBanner.png" alt="Best Practices">
+<img width="750" src="./Unity/Assets/Documentation/Images/RenderingBanner.png" alt="Best Practices">
 
 <BR>
 
@@ -8,6 +8,16 @@ This repo represents the ideal starting point for new Unity projects.
 
 The project includes best practices for **project structure** and **C# coding standards** as well as packages for **ShaderGraph** and **VFXGraph**.
 
+### Rendering Topics
+
+In addition to all the template basics, this repo also includes:
+
+| Name                                                                                             | Description                                               |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Rendering: URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@latest)  | Efficient rendering pipeline for various platforms.       |
+| [Rendering: Post-Processing](https://docs.unity3d.com/Packages/com.unity.postprocessing@latest)  | Visual effects like color grading and bloom.              |
+| [Rendering: Shader Graph](https://docs.unity3d.com/Manual/com.unity.shadergraph.html)  | Node-based shader development.      |
+| [Rendering: VFX Graph](https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@17.0/manual/index.html)  | Node-based visual effects development.      |
 <BR>
 
 **Getting Started: Steps**
@@ -20,7 +30,7 @@ The project includes best practices for **project structure** and **C# coding st
 
 **Getting Started: Video**
 
-<a href="https://www.youtube.com/playlist?list=PL5domiITryHhlCKPSpiGuUt_kQg0nk3Of"><img width="600" src="https://i3.ytimg.com/vi/pXzLXNEW3bk/maxresdefault.jpg" /></a>
+<a href="https://www.youtube.com/playlist?list=PL5domiITryHhlCKPSpiGuUt_kQg0nk3Of"><img width="750" src="https://i3.ytimg.com/vi/pXzLXNEW3bk/maxresdefault.jpg" /></a>
 
 <BR>
 
@@ -81,7 +91,7 @@ If you want these template basics **plus** additional features, check out the fo
 
 This project is a living template. It showcases the best practices and coding standards for many common workflows.
 
-<img width = "400" src="./Unity/Assets/Documentation/Images/Screenshot.png" />
+<img width = "750" src="./Unity/Assets/Documentation/Images/Screenshot.png" />
 
 ### Structure
 
